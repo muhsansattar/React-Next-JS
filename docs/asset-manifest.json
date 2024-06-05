@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nexcent/static/css/main.5c312d75.css",
+    "main.js": "/nexcent/static/js/main.2cd7caff.js",
+    "static/js/453.9be1f87a.chunk.js": "/nexcent/static/js/453.9be1f87a.chunk.js",
+    "static/media/blackAirpod.png": "/nexcent/static/media/blackAirpod.8d6d22bf9312932416b0.png",
+    "static/media/heroSection.png": "/nexcent/static/media/heroSection.6788ec4c9be5b76da224.png",
+    "static/media/card1.png": "/nexcent/static/media/card1.a7a4a48c98e7bd9ae6f0.png",
+    "static/media/card2.png": "/nexcent/static/media/card2.528cff920df1adf4dc3e.png",
+    "static/media/section2.png": "/nexcent/static/media/section2.041e0db99fc754af673b.png",
+    "static/media/section4.png": "/nexcent/static/media/section4.67fa9986535c6bdd02d0.png",
+    "static/media/card3.png": "/nexcent/static/media/card3.7c107518f0f4c13ece6d.png",
+    "index.html": "/nexcent/index.html",
+    "main.5c312d75.css.map": "/nexcent/static/css/main.5c312d75.css.map",
+    "main.2cd7caff.js.map": "/nexcent/static/js/main.2cd7caff.js.map",
+    "453.9be1f87a.chunk.js.map": "/nexcent/static/js/453.9be1f87a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c312d75.css",
+    "static/js/main.2cd7caff.js"
+  ]
+}
